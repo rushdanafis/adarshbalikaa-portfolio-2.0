@@ -2,7 +2,7 @@
   --text-color: rgb(85, 85, 85);
   --decoration-color: white;
   --link-color: black;
-  --baackground: rgba(242, 229, 89, 0.972);
+  --baackground: rgba(32, 171, 60, 0.972);
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
@@ -193,11 +193,7 @@ article .icon {
 .btn-container {
   gap: 1rem;
 }
-.arrow {
-  position: absolute;
-  right: -5rem;
-  bottom: 2.5rem;
-}
+
 
 .details-container {
   margin-bottom: 2rem;
